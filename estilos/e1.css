@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(60, 208, 87);
+}
+.padre{
+    padding:10px;
+
+}
+.titulo ,.contenido, .pie{
+    background-color: rgb(9, 241, 40);
+    margin: 5px;
+    padding: 5px;
+
+}
+img{
+    width: 100%;
+    height:100%;
+}
+.foto{
+    background-color: palegreen;
+    width: 350px;
+    height:300px;
+    padding: 5px;
+}
+.texto{
+    background-color: rgb(74, 237, 95);
+    width: 350px;
+    height: 300px;
+    padding: 5px;
+}
+.contenido{
+    display: flex;
+}
+.titulo,.pie{
+    text-align: center;
+}
